@@ -1,0 +1,5 @@
+data/
+Lib/
+Scripts/
+pyvenv.cfg
+.idea/
